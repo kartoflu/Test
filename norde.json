@@ -42,7 +42,7 @@
             "#202857"
         ],
         "BACKGROUND_SECONDARY": [
-            "#30396F"
+            "#292D38"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#30396F"
@@ -51,7 +51,7 @@
             "#202857"
         ],
         "BACKGROUND_ACCENT": [
-            "#202857"
+            "#7F8DA7"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#202857"
@@ -133,8 +133,8 @@
     },
   "background": {
     "blur": 0,
-    "url": "https://cdn.discordapp.com/attachments/919920863720120382/1143132584910520360/New_Project_21_DA0B5E7.png",
-    "alpha": 0.63
+    "url": "https://raw.githubusercontent.com/kartoflu/norde/main/backgrounds/norde-bg.png",
+    "alpha": 0
   },
     "plus": {
     "version": 0,
