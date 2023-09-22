@@ -7,7 +7,14 @@
       "id": "I forgot, sorry"
     }
   ],
-  "semanticColors": {},
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#292D38"
+    ],
+    "HEADER_SECONDARY": [
+      ""
+    ]
+  },
   "rawColors": {},
   "spec": 2
 }
