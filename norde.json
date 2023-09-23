@@ -42,7 +42,7 @@
             "#2B313F"
         ],
         "BACKGROUND_TERTIARY": [
-            "#2B313F"
+            "#0055FF"
         ],
         "BACKGROUND_ACCENT": [
             "#7F8DA7"
@@ -73,7 +73,7 @@
             "#372d2b"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#292d38"
+            "#0055FF"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#26273b"
