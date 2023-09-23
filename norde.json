@@ -10,6 +10,15 @@
     "semanticColors": {
         "CHAT_BACKGROUND": [
             "#110D0A"
+        ],
+        "HEADER_PRIMARY": [
+            "#7F8DA7"
+        ],
+        "TEXT_MUTED": [
+            "#7F8DA7"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#7F8DA7"
         ]
     },
     "rawColors": {
