@@ -42,7 +42,7 @@
             "#D7DDE9"
         ],
         "BACKGROUND_TERTIARY": [
-            "#292D38"
+            "#2B313F"
         ],
         "BACKGROUND_ACCENT": [
             "#7F8DA7"
@@ -118,7 +118,7 @@
         "PRIMARY_400": "#9E8376",
         "PRIMARY_600": "#100D0A",
         "PRIMARY_630": "#1B1411",
-        "PRIMARY_660": "#1B1411",
+        "PRIMARY_660": "#2B313F",
         "PRIMARY_700": "#292D38",
         "PRIMARY_800": "#100D0A",
         "BRAND_260": "#957261",
@@ -136,17 +136,5 @@
     "url": "https://raw.githubusercontent.com/kartoflu/norde/main/backgrounds/norde-bg.png",
     "alpha": 0
   },
-    "plus": {
-    "version": 0,
-    "iconpack": "rosiecord-plumpy",
-    "icons": {
-          "StatusStreaming": "#7a8dd6",
-          "StatusMobileOnline": "#7a8dd6",
-          "StatusIdle": "#7a8dd6",
-          "StatusDND": "#7a8dd6",
-          "StatusOffline": "#7a8dd6",
-          "StatusOnline": "#7a8dd6"
-          }
-    },
     "spec": 2
 }
