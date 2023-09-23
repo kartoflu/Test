@@ -11,6 +11,9 @@
         "CHAT_BACKGROUND": [
             "#282D38"
         ],
+        "CHANNEL_ICON": [
+            "#7F8DA7"
+        ],
         "HEADER_PRIMARY": [
             "#7F8DA7"
         ],
@@ -20,14 +23,17 @@
         "INTERACTIVE_NORMAL": [
             "#7F8DA7"
         ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#2B313E"
+        ],
         "BACKGROUND_TERTIARY": [
             "#F44336"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#2B313E"
+            "#F44336"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#7F8DA7"
+            "#D8DEE9"
         ]
     },
     "rawColors": {
