@@ -17,14 +17,23 @@
         "HEADER_PRIMARY": [
             "#D8DEE9"
         ],
+        "TEXT_NORMAL": [
+            "#F44336"
+        ],
         "TEXT_MUTED": [
             "#7F8DA7"
         ],
         "INTERACTIVE_NORMAL": [
             "#7F8DA7"
         ],
+        "BACKGROUND_FLOATING": [
+            "#42FF03"
+        ],
         "BACKGROUND_PRIMARY": [
-            "#2CFF03"
+            "#282D38"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#051DFF"
         ],
         "BACKGROUND_ACCENT": [
             "#7F8DA7"
