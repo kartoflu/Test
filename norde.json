@@ -18,7 +18,7 @@
             "#D8DEE9"
         ],
         "TEXT_NORMAL": [
-            "#F44336"
+            "#D8DEE9"
         ],
         "TEXT_MUTED": [
             "#7F8DA7"
@@ -27,13 +27,13 @@
             "#7F8DA7"
         ],
         "BACKGROUND_FLOATING": [
-            "#42FF03"
+            "#282D38"
         ],
         "BACKGROUND_PRIMARY": [
             "#282D38"
         ],
         "BACKGROUND_SECONDARY": [
-            "#051DFF"
+            "#2B313E"
         ],
         "BACKGROUND_ACCENT": [
             "#7F8DA7"
