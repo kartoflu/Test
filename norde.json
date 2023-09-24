@@ -23,6 +23,15 @@
         "INTERACTIVE_NORMAL": [
             "#7F8DA7"
         ],
+        "BACKGROUND_ACCENT": [
+            "#2CFF03"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#F44336"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#F44336"
+        ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#2B313E"
         ],
