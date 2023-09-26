@@ -73,6 +73,7 @@
         ]
     },
     "rawColors": {
+        "PRIMARY_600": "#FE02FF",
         "PRIMARY_700": "#2B313E",
         "GREEN_360": "#503E38"
     },
