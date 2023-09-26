@@ -73,8 +73,9 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_600": "#FE02FF",
-        "PRIMARY_700": "#2B313E",
+        "PRIMARY_600": "#2B313E",
+        "PRIMARY_660": "#06FFF5",
+        "PRIMARY_700": "#282D38",
         "GREEN_360": "#503E38"
     },
   "background": {
