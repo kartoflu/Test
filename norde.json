@@ -12,7 +12,7 @@
             "#7F8DA7"
         ],
         "BACKGROUND_FLOATING": [
-            "#282D38"
+            "#2B313E"
         ],
         "BACKGROUND_MENTIONED": [
             "#FE02FF"
@@ -56,6 +56,9 @@
         "INTERACTIVE_ACTIVE": [
             "#D8DEE9"
         ],
+        "INTERACTIVE_HOVER": [
+            "#06FFF5"
+        ],
         "INTERACTIVE_NORMAL": [
             "#7F8DA7"
         ],
@@ -73,8 +76,8 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_600": "#2B313E",
-        "PRIMARY_660": "#06FFF5",
+        "PRIMARY_600": "#282D38",
+        "PRIMARY_660": "#282D38",
         "PRIMARY_700": "#282D38",
         "GREEN_360": "#503E38"
     },
